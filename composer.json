@@ -1,0 +1,37 @@
+{
+    "name": "betterflarum/bettermobiledrawer",
+    "description": "A Flarum extension, Make the mobile drawer look better.",
+    "keywords": [
+        "flarum",
+		"drawer",
+		"mobile",
+		"better"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/betterflarum/bettermobiledrawer",
+        "source": "https://github.com/betterflarum/bettermobiledrawer"
+    },
+    "require": {
+        "flarum/core": "^1.8.1"
+    },
+    "authors": [
+        {
+            "name": "BetterFlarum",
+            "email": "vnpedl@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Better Mobile Drawer",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-rectangle-list",
+                "backgroundColor": "#0078d4",
+                "color": "#FFF"
+            }
+        }
+    }
+}
