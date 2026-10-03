@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of betterflarum/bettermobiledrawer.** Not for installation: use [Packagist](https://packagist.org/packages/betterflarum/bettermobiledrawer) or the [upstream repository](https://github.com/betterflarum/bettermobiledrawer).
 
-**0** versions archived · Latest: [`2.2.0`](https://github.com/flarchive/betterflarum-bettermobiledrawer/tree/archive/v2.2.0) · License: `MIT` · Flarum: `^1.8.1`
+**1** versions archived · Latest: [`2.2.0`](https://github.com/flarchive/betterflarum-bettermobiledrawer/tree/archive/v2.2.0) · License: `MIT` · Flarum: `^1.8.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.2.0` | 2023-11-11 | `^1.8.1` | [Browse](https://github.com/flarchive/betterflarum-bettermobiledrawer/tree/archive/v2.2.0) |
 
 Catalog entry: [packages/betterflarum-bettermobiledrawer.json](https://github.com/flarchive/archive-index/blob/main/packages/betterflarum-bettermobiledrawer.json)
 
